@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome!
+
+#### Profile Image Credit: Makowka OC Maker
+Twitter: https://twitter.com/makowwka
+Instagram: mak0wka
 
 <!--
 **hardenbrenna/hardenbrenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
